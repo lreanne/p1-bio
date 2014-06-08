@@ -1,0 +1,49 @@
+/* Your Website Styles */
+h1 {
+	color: #339999;
+	font-family: 'Sacramento', cursive;
+	font-size: 5em; 
+	margin: 30px 0px;
+	text-align: center;
+	}
+
+	img {
+	width: 400px;
+	border-radius: 25px;
+	margin: 40px 40px 0px 0px;
+	}
+
+a {
+	text-decoration: none;
+	color:black;
+	text-transform: uppercase;
+	font-size: 1.25em;
+	text-align: center;
+	margin: 40px 0px;
+}
+
+.round-btn {
+	color: #339999;
+	background: white;
+	padding: 15px 30px;
+	margin: 10px 15px;
+	border-radius:25px;
+	float: right;
+}
+
+.round-btn:hover {
+	background-color:#7B5E7C;
+	color:white;
+}
+
+p {
+	color:#7B5E7C;
+	text-align: center;
+	margin: 0px 40px 40px 0px;
+	float: right;
+}
+
+
+body {
+background: url("../img/light_grey.png");
+font-family: 'Raleway', sans-serif;
